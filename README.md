@@ -21,6 +21,6 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/system-checking-app.git
+   git clone https://github.com/kanchana66/system_checker.git
    cd system-checking-app
 
